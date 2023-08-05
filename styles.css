@@ -1,6 +1,18 @@
+img{
+    max-width: 600px;
+}
+header{
+    background: purple;
+    width: 100%;
+    color: white;
+}
 body{
+    background-color: burlywood;
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+h2{
+    color: beige;
 }
